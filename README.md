@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    ✨ WilliamButcherBot ✨ 
+    ✨ ɪɴsᴀɴᴇ ᴏᴘ ✨ 
 </h1>
 
 <h3 align="center"> 
@@ -28,8 +28,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/WilliamButcherBot"> WilliamButcherBot </a> | 
-    <a href="https://t.me/wbbsupport"> WbbSupport </a>
+    <a href="https://t.me/sareefo_ki_duniya"> 𝐼𝑁𝑆𝐴𝑁𝐸 𝑂𝑃 </a> | 
+    <a href="https://t.me/about_insaneop"> 𝐼𝑁𝑆𝐴𝑁𝐸 𝑂𝑃 </a>
 </p>
 
 <h2 align="center"> 
